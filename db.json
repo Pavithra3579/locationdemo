@@ -1,0 +1,39 @@
+{data: [
+        {
+          name: 'Melbourne',
+          warningDescription: '',
+          weatherIcon: 1,
+          precisText: 'Mostly sunny.This is very very long place',
+          min: 16,
+          max: 24.25,
+          locationType: 'state',
+        },
+        {
+          name: 'Victoria',
+          warningDescription: 'warning sample text',
+          weatherIcon: 12,
+          precisText: 'Mostly cloudy.',
+          min: 16,
+          max: 16.35,
+          locationType: 'state',
+        },
+        {
+          name: 'Mallee District',
+          warningDescription: 'warning sample text',
+          weatherIcon: null,
+          precisText: '',
+          min: 16,
+          max: null,
+          locationType: 'state',
+        },
+        {
+          name: 'West Victoria Coastal Waters',
+          warningDescription: 'warning sample text',
+          weatherIcon: 1,
+          precisText: 'Mostly sunny.',
+          min: 16,
+          max: 26,
+          locationType: 'coastal_area',
+        },
+      ]
+}
